@@ -1,0 +1,80 @@
+.navbar-brand {
+    font-size: 30px !important;
+}
+
+.navbar-nav {
+    font-size: 20px !important;
+}
+
+.nav-item {
+    margin: 10px;
+}
+
+.img-fluid {
+    margin: 20px;
+    margin-left: 130px;
+}
+
+.color-red {
+    color: rgb(255, 0, 0);
+    font-size: 80px;
+}
+
+.color-blue {
+    color: rgb(24, 115, 205);
+    font-size: 80px;
+}
+
+
+.btn {
+    height: 35px;
+    width: 150px;
+    font-size: 15px !important;
+}
+
+.card-title {
+    font-size: 20px;
+}
+
+.card-text {
+    font-size: 13px;
+}
+
+.text-align-center {
+    text-align: center;
+    margin: 10px 0px;
+    font-size: 50px;
+}
+
+.heading-our-service {
+    height: 60px;
+    background-color: rgba(244, 246, 247, 0.931);
+    margin-bottom:  20px;
+}
+
+.card{
+    margin: 0px 25px ;
+    background-color: peru;
+}
+
+.form-control{
+    width: 500px !important;
+}
+
+form{
+    position: absolute;
+    left: 30%;
+    top: 30%;
+}
+.form-label{
+    font-size: 30px;
+
+}
+
+.form-text{
+    font-size: 20px !important;
+}
+
+.form-check-label{
+    font-size: 15px;
+}
